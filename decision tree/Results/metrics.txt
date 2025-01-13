@@ -1,0 +1,8 @@
+Classification Metrics:
+Accuracy: 0.9992
+Precision: 0.9797
+Recall: 0.9954
+F1-Score: 0.9875
+Confusion Matrix:
+[[165125, 113],
+ [25, 5460]]
